@@ -73,12 +73,3 @@ This program compresses and decompresses **only text files** using Huffman Encod
 Huffman Encoding is a **complex and advanced topic** in data compression. If you are struggling to understand how this algorithm works, feel free to reach out to me. I’d be happy to explain the logic and implementation in detail!
 
 📧 **Contact me at:** mohibkhansherwani@gmail.com  
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-🌟 **Enjoy compressing your text files efficiently!** 🚀
