@@ -13,11 +13,15 @@ This program compresses and decompresses **only text files** using Huffman Encod
 
 ## 📸 Screenshots
 
-### File Selection:
-![File Selection](https://github.com/user-attachments/assets/748015ea-27f2-4596-af6a-07ee0d65318e)
-
 ### Compression Process:
-![Compression Process](https://github.com/user-attachments/assets/5f772c0a-6202-4cd8-aaa1-73f92fde234c)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5f772c0a-6202-4cd8-aaa1-73f92fde234c" width="500">
+</p>
+
+### File Selection:
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/748015ea-27f2-4596-af6a-07ee0d65318e" width="500">
+</p>
 
 ---
 
@@ -45,8 +49,36 @@ This program compresses and decompresses **only text files** using Huffman Encod
 
 ## 🔧 Usage Instructions
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/Text-file-zipper-using-Huffman-Encoding.git
+1. **Run the Java program** and select a **text file (`.txt` only)** to compress.
+2. Observe the compression process and check the file size reduction.
+3. Decompress the file to verify the restored content.
 
+---
 
+## 📢 Recommendations
+- Preferably use a **longer text file (MBs in size)** for better compression efficiency.
+- Always verify that the decompressed file is identical to the original.
+- Do **not** attempt to compress non-text files (e.g., images, PDFs) as this program is **strictly for text files**.
+
+---
+
+## ❗ Limitations
+- Works **only with `.txt` files**.
+- Does **not** support other file types like images, PDFs, or binary files.
+- Compression ratio depends on text redundancy; highly unique content may not compress well.
+
+---
+
+## 🤯 Understanding Huffman Encoding  
+Huffman Encoding is a **complex and advanced topic** in data compression. If you are struggling to understand how this algorithm works, feel free to reach out to me. I’d be happy to explain the logic and implementation in detail!
+
+📧 **Contact me at:** mohibkhansherwani@gmail.com  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+
+🌟 **Enjoy compressing your text files efficiently!** 🚀
